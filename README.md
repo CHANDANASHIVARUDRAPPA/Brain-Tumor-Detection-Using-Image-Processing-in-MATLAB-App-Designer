@@ -53,6 +53,21 @@ Tumor regions are **highlighted in yellow** over the original image using pixel-
 - Image Processing Toolbox
 - App Designer Support (included in most MATLAB installations)
 
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Original Image
+![Original](image1.png)
+
+### 🔹 After Median Filtering
+![Median Filter](image2.png)
+
+### 🔹 After Edge Detection
+![Edge Detection](image3.png)
+
+### 🔹 Tumor Detection Result
+![Tumor Detection](image4.png)
 
 
 
