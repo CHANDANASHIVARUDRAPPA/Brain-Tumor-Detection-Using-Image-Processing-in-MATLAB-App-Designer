@@ -10,11 +10,11 @@ This project is a MATLAB GUI app (`.mlapp`) that performs basic brain tumor dete
 
 ## Features
 
-- 🖼️ **Image Upload** — Select any `.jpg`, `.png`, or `.bmp` image
-- 🧹 **Median Filtering** — Reduces noise from MRI images
-- ✂️ **Edge Detection** — Highlights boundaries using the Sobel method
-- 🎯 **Tumor Region Detection** — Fills enclosed regions and highlights them in yellow
-- 📊 **Multi-stage Image Display** — Shows all image stages side by side in the GUI
+- **Image Upload** — Select any `.jpg`, `.png`, or `.bmp` image
+- **Median Filtering** — Reduces noise from MRI images
+- **Edge Detection** — Highlights boundaries using the Sobel method
+- **Tumor Region Detection** — Fills enclosed regions and highlights them in yellow
+- **Multi-stage Image Display** — Shows all image stages side by side in the GUI
 
 ---
 
@@ -47,7 +47,7 @@ Tumor regions are **highlighted in yellow** over the original image using pixel-
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - MATLAB R2019b or later
 - Image Processing Toolbox
@@ -55,18 +55,18 @@ Tumor regions are **highlighted in yellow** over the original image using pixel-
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
-### 🔹 Original Image
+### Original Image
 ![Original](image1.png)
 
-### 🔹 After Median Filtering
+### After Median Filtering
 ![Median Filter](image2.png)
 
-### 🔹 After Edge Detection
+### After Edge Detection
 ![Edge Detection](image3.png)
 
-### 🔹 Tumor Detection Result
+### Tumor Detection Result
 ![Tumor Detection](image4.png)
 
 
